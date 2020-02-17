@@ -1,5 +1,5 @@
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20200217-40409-199fet2.rb extconf.rb
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20200217-27408-1oelcog.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... no
 checking for sys/select.h... yes
@@ -11,10 +11,10 @@ checking for port_event_t in port.h... no
 checking for sys/resource.h... yes
 creating Makefile
 
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" clean
 
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR="
 compiling bytebuffer.c
 compiling monitor.c
@@ -252,6 +252,6 @@ compiling selector.c
 linking shared-object nio4r_ext.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20200217-40409-16l6rjy
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20200217-27408-dgzhfu

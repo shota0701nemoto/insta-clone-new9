@@ -1,5 +1,5 @@
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20200217-40409-mfpjk6.rb extconf.rb --use-system-libraries
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20200217-27408-nc0c7u.rb extconf.rb --use-system-libraries
 checking if the C compiler accepts  -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libxml2... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using system libraries.
@@ -15,10 +15,10 @@ checking for xmlSchemaSetValidStructuredErrors()... yes
 checking for xmlSchemaSetParserStructuredErrors()... yes
 creating Makefile
 
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
 make "DESTDIR=" clean
 
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
 make "DESTDIR="
 compiling html_document.c
 compiling html_element_description.c
@@ -86,8 +86,8 @@ compiling xslt_stylesheet.c
 linking shared-object nokogiri/nokogiri.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 Cleaning files only used during build.
-rm -rf /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ports/archives
+rm -rf /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ports/archives
 
-current directory: /Users/shogo/environment/insta-clone-new9/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
+current directory: /Users/shogo/environment/insta-clone-new2/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.8/ext/nokogiri
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20200217-40409-g23k3l/nokogiri
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20200217-27408-1db48eo/nokogiri
